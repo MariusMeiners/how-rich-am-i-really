@@ -1,0 +1,13 @@
+pin within bar plot distribution to indicate where you stand in the range (bin)
+
+which percentile am i in within my country
+
+which percentile global
+
+which percentile am i in within my comparison group
+
+-> maybe also quartiles
+
+?how is my income expected to grow on average?
+
+how much is my income compared to average living expenses
