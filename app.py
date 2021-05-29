@@ -25,4 +25,10 @@ option = st.sidebar.selectbox(
     'Which country do you live in?',
      [x.name for x in list(pycountry.countries)])
 
+income = st.sidebar.number_input(label='Your monthly income in $USD:', help="IN USD", step=100, min_value=0)
+
+wealth = st.sidebar.number_input(label='Your net worth is $USD:', step=200, min_value=0)
+
+"Your inncome is ", income 
+
 'You selected:', option
